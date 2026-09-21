@@ -1,6 +1,4 @@
-Aqui está o conteúdo completo do guia formatado em Markdown dentro de um bloco de código. Você pode clicar no botão de cópia do bloco abaixo e colá-lo diretamente em um arquivo chamado `README.md` na sua pasta:
 
-```markdown
 # 🐍 Guia de Estudos Python: Do Zero ao Avançado
 
 Este guia de estudos foi desenvolvido para orientar sua jornada no aprendizado da linguagem Python, cobrindo desde a configuração do ambiente até estruturas de dados avançadas e boas práticas de desenvolvimento.
